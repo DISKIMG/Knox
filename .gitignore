@@ -1,4 +1,7 @@
+build.sh
+
 bin/
 isodir/ 
+limine/
 
 knox.iso
